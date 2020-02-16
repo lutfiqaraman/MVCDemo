@@ -30,5 +30,10 @@ namespace MVCDemo.Controllers
         {
             return View();
         }
+
+        public ActionResult Edit()
+        {
+            return View();
+        }
     }
 }
